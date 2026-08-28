@@ -9,6 +9,11 @@
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-NestAI-success?style=for-the-badge)](https://nestai-realestate.vercel.app/)
 
 ---
+<img width="896" height="442" alt="Image" src="https://github.com/user-attachments/assets/91294bdb-226f-4d97-bc8e-035a0972618f" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/34649698-2303-485c-9cb7-a7ab60a5f44e" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/e213220e-43cc-4d0d-a604-d354174557ba" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/bb6529ed-84f0-4764-a4a2-d730947a022b" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7ab4fa53-715d-4f8b-b13b-ae2fc844a3b5" />
 
 ## ✨ About NestAI
 
